@@ -1,1 +1,1 @@
-never push
+excludesfile = /home/user/.gitignore_global
